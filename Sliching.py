@@ -10,3 +10,5 @@ your object"""
 print (str[6:len(str)])
 
 print (str[6:])
+
+print(str[-6:-1])
