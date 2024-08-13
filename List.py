@@ -9,7 +9,7 @@ print (len(marks))
 
 #For Example
 
-student = ["Karan",95.4,17,"Delhi"]
+student = ["Karan",95.4,17,"Delhi"]       #changeable
 print(student)
 
 student[0] = "arjun"
