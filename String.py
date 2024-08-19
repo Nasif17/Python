@@ -4,3 +4,4 @@ str3 = """This is a string"""
 
 print(str1)
 print(str2)
+print(str3)
