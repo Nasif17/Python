@@ -28,3 +28,5 @@ print(type(tup5))
 tup6 = ("Hello",)
 print(tup6)
 print(type(tup6))
+
+print (tup[1:3])  #tuple sliching
