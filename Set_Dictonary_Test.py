@@ -13,7 +13,7 @@ print (dictionary)
 1 subject. How many Classrooms are needed by all students.
 
 "python","java","C++","python","javascript",
-"C++","python","java","C++","C"
+"C#","python","java","C++","C"
 
 """
 
