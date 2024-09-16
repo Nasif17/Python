@@ -22,3 +22,35 @@ set = {"python","java","C++","python","javascript",
 
 print(len(set))
 
+
+"""Write a programme marks of 3 subjects from the user and store them in dictonary.
+Start with an empty dictonary & add one  by one.Use subject names as keys & marks as values"""
+
+# marks = {}
+
+# x = int (input("Enter physics number :  "))
+# marks.update({"physics" : x})
+
+# x = int (input("Enter math number :  "))
+# marks.update({"math" : x})
+
+# x = int (input("Enter chemistry number :  "))
+# marks.update({"chemistry" : x})
+
+# print (marks)
+
+"""Figure out a way to store 9 & 9.0 as separate values in a set.
+(you can take help of built-in data type)"""
+
+
+values = {9,"9.0"}
+
+print(values)
+
+values = {
+    ("float",9.0),
+    ("int",9)
+} 
+
+print(type(values))
+print(values)
